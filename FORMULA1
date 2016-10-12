@@ -18,3 +18,6 @@ Someone changed a file on github. How do I automatically update the file I have 
 How to manage branch control from the terminal (well happens only so often, use your mouse for once)
 git fetch 
 git checkout 'file'
+
+Use gitolite and subversion to gain full access to handy stuff. 
+https://help.ubuntu.com/lts/serverguide/subversion.html
