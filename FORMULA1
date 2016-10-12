@@ -16,4 +16,5 @@ git remote add origin https://github.com/user_name/repo.git
 Question left:
 Someone changed a file on github. How do I automatically update the file I have in my local repo?
 How to manage branch control from the terminal (well happens only so often, use your mouse for once)
-
+git fetch 
+git checkout 'file'
