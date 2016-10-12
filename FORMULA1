@@ -1,2 +1,19 @@
 Running out of ideas to write here. 
 well would this work? (friday night with chinese food)
+Ha this is cool, so procedure as follows:
+
+Change/create some file in a repo named as the one on github.
+git add 'file.ext'
+git commit -m "some comment"
+git push origin master
+Username
+Password
+
+
+Now you have to set the origin, only once I assume. 
+git remote add origin https://github.com/user_name/repo.git
+
+Question left:
+Someone changed a file on github. How do I automatically update the file I have in my local repo?
+How to manage branch control from the terminal (well happens only so often, use your mouse for once)
+
